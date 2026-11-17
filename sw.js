@@ -1,4 +1,4 @@
-const CACHE='sbg-v2-20261117a',files=['./','./index.html','./pro.js','./subwoofers.json','./subwoofer-index.json','./manifest.webmanifest','./icon.svg'];
+const CACHE='sbg-v3-auth-20261117',files=['./','./index.html','./pro.js','./subwoofers.json','./subwoofer-index.json','./manifest.webmanifest','./icon.svg','./auth-gate.js'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(files)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k.startsWith('sbg-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',e=>{const u=new URL(e.request.url);if(e.request.method!=='GET'||u.origin!==self.location.origin||!files.some(p=>new URL(p,self.location.href).pathname===u.pathname))return;e.respondWith(fetch(e.request).then(r=>{if(r.ok){const copy=r.clone();caches.open(CACHE).then(c=>c.put(e.request,copy))}return r}).catch(()=>caches.match(e.request,{ignoreSearch:true}).then(r=>r||Response.error())))});
