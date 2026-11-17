@@ -1,0 +1,1254 @@
+[
+  {
+    "id": "jl-audio/12w0v3-4",
+    "brand": "JL Audio",
+    "model": "12W0v3-4",
+    "sku": "12w0v3-4",
+    "diam": 12,
+    "sources": {
+      "manufacturer_listing_page": "https://www.garmin.com/c/api/getDisplayableProducts?locale=en-US",
+      "manufacturer_product_page": "https://www.garmin.com/en-US/p/1666237/"
+    },
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12w0v3-4.json",
+    "specs": {
+      "BL_Tm": {
+        "value": 12.382451746757893,
+        "state": "C"
+      },
+      "Cms_m_per_N": {
+        "value": 0.00021855850466707215,
+        "state": "C"
+      },
+      "Dd_m": {
+        "value": 0.247396267610855,
+        "state": "C"
+      },
+      "EBP_hz": {
+        "value": 39.76223776223777,
+        "state": "C"
+      },
+      "Fs_hz": {
+        "value": 28.43,
+        "state": "E"
+      },
+      "Gloss": {
+        "value": 0.026888154137779847,
+        "state": "C"
+      },
+      "Mms_kg": {
+        "value": 0.14338998959937221,
+        "state": "C"
+      },
+      "Mpow_N_per_sqrtW": {
+        "value": 5.985283963719035,
+        "state": "C"
+      },
+      "Pe_W": {
+        "value": 300,
+        "state": "E"
+      },
+      "Qes": {
+        "value": 0.715,
+        "state": "E"
+      },
+      "Qms": {
+        "value": 10.709,
+        "state": "E"
+      },
+      "Qts": {
+        "value": 0.67,
+        "state": "E"
+      },
+      "Re_ohm": {
+        "value": 4.28,
+        "state": "E"
+      },
+      "Rme_kg_per_s": {
+        "value": 35.82362412635223,
+        "state": "C"
+      },
+      "Rms_kg_per_s": {
+        "value": 2.391809809537944,
+        "state": "C"
+      },
+      "SPL_dB": {
+        "value": 85.64,
+        "state": "E"
+      },
+      "SPLmaxLF_dB": {
+        "value": 95.36285956623828,
+        "state": "C"
+      },
+      "SPLmax_dB": {
+        "value": 107.41121254719663,
+        "state": "C"
+      },
+      "Sd_m2": {
+        "value": 0.04807022644,
+        "state": "E"
+      },
+      "USPL_dB": {
+        "value": 88.36129102035409,
+        "state": "C"
+      },
+      "Vas_m3": {
+        "value": 0.071641504,
+        "state": "E"
+      },
+      "Vd_m3": {
+        "value": 0.0005494426882091999,
+        "state": "C"
+      },
+      "Xmax_m": {
+        "value": 0.01143,
+        "state": "E"
+      },
+      "Znom_ohm": {
+        "value": 4,
+        "state": "E"
+      },
+      "c_m_per_s": {
+        "value": 343.68412096215235,
+        "state": "C"
+      },
+      "gamma_m_per_s2_A": {
+        "value": 86.35506412514661,
+        "state": "C"
+      },
+      "no": {
+        "value": 0.0022390849309059458,
+        "state": "C"
+      },
+      "roo_kg_per_m3": {
+        "value": 1.2009521771468228,
+        "state": "C"
+      },
+      "weight_kg": {
+        "value": 3.67863112,
+        "state": "E"
+      }
+    }
+  },
+  {
+    "id": "jl-audio/12w3v3-4",
+    "brand": "JL Audio",
+    "model": "12W3v3-4",
+    "sku": "12w3v3-4",
+    "diam": 12,
+    "sources": {
+      "manufacturer_listing_page": "https://www.garmin.com/c/api/getDisplayableProducts?locale=en-US",
+      "manufacturer_product_page": "https://www.garmin.com/en-US/p/1668237/"
+    },
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12w3v3-4.json",
+    "specs": {
+      "BL_Tm": {
+        "value": 14.634121859884122,
+        "state": "C"
+      },
+      "Cms_m_per_N": {
+        "value": 0.00020995400684402504,
+        "state": "C"
+      },
+      "Dd_m": {
+        "value": 0.2573097819930595,
+        "state": "C"
+      },
+      "EBP_hz": {
+        "value": 56.610169491525426,
+        "state": "C"
+      },
+      "Fs_hz": {
+        "value": 26.72,
+        "state": "E"
+      },
+      "Gloss": {
+        "value": 0.026858647443222115,
+        "state": "C"
+      },
+      "Mms_kg": {
+        "value": 0.16898306707641203,
+        "state": "C"
+      },
+      "Mpow_N_per_sqrtW": {
+        "value": 7.752803130988047,
+        "state": "C"
+      },
+      "Pe_W": {
+        "value": 500,
+        "state": "E"
+      },
+      "Qes": {
+        "value": 0.472,
+        "state": "E"
+      },
+      "Qms": {
+        "value": 7.572,
+        "state": "E"
+      },
+      "Qts": {
+        "value": 0.444,
+        "state": "E"
+      },
+      "Re_ohm": {
+        "value": 3.563,
+        "state": "E"
+      },
+      "Rme_kg_per_s": {
+        "value": 60.10595638785807,
+        "state": "C"
+      },
+      "Rms_kg_per_s": {
+        "value": 3.7466998699245915,
+        "state": "C"
+      },
+      "SPL_dB": {
+        "value": 87.15,
+        "state": "E"
+      },
+      "SPLmaxLF_dB": {
+        "value": 97.13253895509773,
+        "state": "C"
+      },
+      "SPLmax_dB": {
+        "value": 111.1397000433602,
+        "state": "C"
+      },
+      "Sd_m2": {
+        "value": 0.051999896,
+        "state": "E"
+      },
+      "USPL_dB": {
+        "value": 90.66757048697565,
+        "state": "C"
+      },
+      "Vas_m3": {
+        "value": 0.0805329792,
+        "state": "E"
+      },
+      "Vd_m3": {
+        "value": 0.000673606652784,
+        "state": "C"
+      },
+      "Xmax_m": {
+        "value": 0.012954,
+        "state": "E"
+      },
+      "Znom_ohm": {
+        "value": 4,
+        "state": "E"
+      },
+      "c_m_per_s": {
+        "value": 343.68412096215235,
+        "state": "C"
+      },
+      "gamma_m_per_s2_A": {
+        "value": 86.60111402325745,
+        "state": "C"
+      },
+      "no": {
+        "value": 0.0031653552884835135,
+        "state": "C"
+      },
+      "roo_kg_per_m3": {
+        "value": 1.2009521771468228,
+        "state": "C"
+      },
+      "weight_kg": {
+        "value": 6.577084,
+        "state": "E"
+      }
+    }
+  },
+  {
+    "id": "jl-audio/12w6v3-d4",
+    "brand": "JL Audio",
+    "model": "12W6v3-D4",
+    "sku": "12w6v3-d4",
+    "diam": 12,
+    "sources": {
+      "manufacturer_listing_page": "https://www.garmin.com/c/api/getDisplayableProducts?locale=en-US",
+      "manufacturer_product_page": "https://www.garmin.com/en-US/p/1707322/"
+    },
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12w6v3-d4.json",
+    "specs": {
+      "BL_Tm": {
+        "value": 22.042962835524644,
+        "state": "C"
+      },
+      "Cms_m_per_N": {
+        "value": 0.00016223244518579293,
+        "state": "C"
+      },
+      "Dd_m": {
+        "value": 0.2487687473559382,
+        "state": "C"
+      },
+      "EBP_hz": {
+        "value": 55.27515400410678,
+        "state": "C"
+      },
+      "Fs_hz": {
+        "value": 26.919,
+        "state": "E"
+      },
+      "Gloss": {
+        "value": 0.017994845154652564,
+        "state": "C"
+      },
+      "Mms_kg": {
+        "value": 0.2154689544977821,
+        "state": "C"
+      },
+      "Mpow_N_per_sqrtW": {
+        "value": 8.650620637852532,
+        "state": "C"
+      },
+      "Pe_W": {
+        "value": 600,
+        "state": "E"
+      },
+      "Qes": {
+        "value": 0.487,
+        "state": "E"
+      },
+      "Qms": {
+        "value": 9.365,
+        "state": "E"
+      },
+      "Qts": {
+        "value": 0.463,
+        "state": "E"
+      },
+      "Re_ohm": {
+        "value": 6.493,
+        "state": "E"
+      },
+      "Rme_kg_per_s": {
+        "value": 74.83323742004013,
+        "state": "C"
+      },
+      "Rms_kg_per_s": {
+        "value": 3.891488160550939,
+        "state": "C"
+      },
+      "SPL_dB": {
+        "value": 85.4,
+        "state": "E"
+      },
+      "SPLmaxLF_dB": {
+        "value": 99.89594160072082,
+        "state": "C"
+      },
+      "SPLmax_dB": {
+        "value": 110.18151250383644,
+        "state": "C"
+      },
+      "Sd_m2": {
+        "value": 0.04860506408,
+        "state": "E"
+      },
+      "USPL_dB": {
+        "value": 86.31127468175825,
+        "state": "C"
+      },
+      "VCCon": {
+        "value": "series",
+        "state": "C"
+      },
+      "Vas_m3": {
+        "value": 0.054368256,
+        "state": "E"
+      },
+      "Vd_m3": {
+        "value": 0.0009259264707240001,
+        "state": "C"
+      },
+      "Xmax_m": {
+        "value": 0.01905,
+        "state": "E"
+      },
+      "Znom_ohm": {
+        "value": 4,
+        "state": "E"
+      },
+      "c_m_per_s": {
+        "value": 343.68412096215235,
+        "state": "C"
+      },
+      "gamma_m_per_s2_A": {
+        "value": 102.30226849572215,
+        "state": "C"
+      },
+      "no": {
+        "value": 0.00211774928411568,
+        "state": "C"
+      },
+      "numVC": {
+        "value": 2,
+        "state": "E"
+      },
+      "roo_kg_per_m3": {
+        "value": 1.2009521771468228,
+        "state": "C"
+      },
+      "weight_kg": {
+        "value": 11.6119552,
+        "state": "E"
+      }
+    }
+  },
+  {
+    "id": "jl-audio/12w7ae-3",
+    "brand": "JL Audio",
+    "model": "12W7AE-3",
+    "sku": "12w7ae-3",
+    "diam": 12,
+    "sources": {
+      "manufacturer_listing_page": "https://www.garmin.com/c/api/getDisplayableProducts?locale=en-US",
+      "manufacturer_product_page": "https://www.garmin.com/en-US/p/1669677/"
+    },
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12w7ae-3.json",
+    "specs": {
+      "BL_Tm": {
+        "value": 13.324825401264693,
+        "state": "C"
+      },
+      "Cms_m_per_N": {
+        "value": 0.00015836602198136793,
+        "state": "C"
+      },
+      "Dd_m": {
+        "value": 0.26268085364798166,
+        "state": "C"
+      },
+      "EBP_hz": {
+        "value": 52.91828793774319,
+        "state": "C"
+      },
+      "Fs_hz": {
+        "value": 27.2,
+        "state": "E"
+      },
+      "Gloss": {
+        "value": 0.011494539414997774,
+        "state": "C"
+      },
+      "Mms_kg": {
+        "value": 0.21619241230051556,
+        "state": "C"
+      },
+      "Mpow_N_per_sqrtW": {
+        "value": 8.478383372137328,
+        "state": "C"
+      },
+      "Pe_W": {
+        "value": 1000,
+        "state": "E"
+      },
+      "Qes": {
+        "value": 0.514,
+        "state": "E"
+      },
+      "Qms": {
+        "value": 7.807,
+        "state": "E"
+      },
+      "Qts": {
+        "value": 0.482,
+        "state": "E"
+      },
+      "Re_ohm": {
+        "value": 2.47,
+        "state": "E"
+      },
+      "Rme_kg_per_s": {
+        "value": 71.88298460493472,
+        "state": "C"
+      },
+      "Rms_kg_per_s": {
+        "value": 4.732657113735935,
+        "state": "C"
+      },
+      "SPL_dB": {
+        "value": 86.2,
+        "state": "E"
+      },
+      "SPLmaxLF_dB": {
+        "value": 104.55397712534705,
+        "state": "C"
+      },
+      "SPLmax_dB": {
+        "value": 113.2,
+        "state": "C"
+      },
+      "Sd_m2": {
+        "value": 0.05419344,
+        "state": "E"
+      },
+      "USPL_dB": {
+        "value": 91.30875917788914,
+        "state": "C"
+      },
+      "Vas_m3": {
+        "value": 0.065978144,
+        "state": "E"
+      },
+      "Vd_m3": {
+        "value": 0.0015829903824000002,
+        "state": "C"
+      },
+      "Xmax_m": {
+        "value": 0.02921,
+        "state": "E"
+      },
+      "Znom_ohm": {
+        "value": 3,
+        "state": "E"
+      },
+      "c_m_per_s": {
+        "value": 343.68412096215235,
+        "state": "C"
+      },
+      "gamma_m_per_s2_A": {
+        "value": 61.63410297093446,
+        "state": "C"
+      },
+      "no": {
+        "value": 0.0025120311635693587,
+        "state": "C"
+      },
+      "roo_kg_per_m3": {
+        "value": 1.2009521771468228,
+        "state": "C"
+      },
+      "weight_kg": {
+        "value": 20.41164,
+        "state": "E"
+      }
+    }
+  },
+  {
+    "id": "dayton-audio/rss315ho-44",
+    "brand": "Dayton Audio",
+    "model": "RSS315HO-44 12\" Reference HO DVC Subwoofer 4 Ohms Per Coil",
+    "sku": "rss315ho-44",
+    "diam": 12,
+    "sources": {
+      "manufacturer_datasheet": "https://daytonaudio.com/images/resources/295-467--rss315ho-44-reference-ho-dvc-subwoofer-specifications.pdf",
+      "manufacturer_product_page": "https://daytonaudio.com/product/125/rss315ho-44-12-reference-ho-dvc-subwoofer-4-ohms-per-coil"
+    },
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss315ho-44.json",
+    "specs": {
+      "BL_Tm": {
+        "value": 26.5,
+        "state": "E"
+      },
+      "Basket_m": {
+        "value": 0.282,
+        "state": "E"
+      },
+      "Cms_m_per_N": {
+        "value": 0.00017,
+        "state": "E"
+      },
+      "Dd_m": {
+        "value": 0.2540983614931826,
+        "state": "C"
+      },
+      "EBP_hz": {
+        "value": 52.43902439024391,
+        "state": "C"
+      },
+      "Fs_hz": {
+        "value": 21.5,
+        "state": "E"
+      },
+      "Gloss": {
+        "value": 0.038384508443410785,
+        "state": "C"
+      },
+      "Le_H": {
+        "value": 0.00317,
+        "state": "E"
+      },
+      "Mms_kg": {
+        "value": 0.32234016365710483,
+        "state": "C"
+      },
+      "Mpow_N_per_sqrtW": {
+        "value": 10.394155162323754,
+        "state": "C"
+      },
+      "Pe_W": {
+        "value": 700,
+        "state": "E"
+      },
+      "Qes": {
+        "value": 0.41,
+        "state": "E"
+      },
+      "Qms": {
+        "value": 3.7,
+        "state": "E"
+      },
+      "Qts": {
+        "value": 0.37,
+        "state": "E"
+      },
+      "Re_ohm": {
+        "value": 6.5,
+        "state": "E"
+      },
+      "Rme_kg_per_s": {
+        "value": 106.20596115704868,
+        "state": "C"
+      },
+      "Rms_kg_per_s": {
+        "value": 11.768768668754042,
+        "state": "C"
+      },
+      "SPL_dB": {
+        "value": 84.6,
+        "state": "E"
+      },
+      "SPLmaxLF_dB": {
+        "value": 97.58884452436313,
+        "state": "C"
+      },
+      "SPLmax_dB": {
+        "value": 110.05098040014256,
+        "state": "C"
+      },
+      "Sd_m2": {
+        "value": 0.05071,
+        "state": "E"
+      },
+      "USPL_dB": {
+        "value": 85.50659514405724,
+        "state": "C"
+      },
+      "VCCon": {
+        "value": "series",
+        "state": "C"
+      },
+      "Vas_m3": {
+        "value": 0.0613,
+        "state": "E"
+      },
+      "Vcd_m": {
+        "value": 0.0655,
+        "state": "E"
+      },
+      "Vd_m3": {
+        "value": 0.0007099399999999999,
+        "state": "C"
+      },
+      "Xmax_m": {
+        "value": 0.014,
+        "state": "E"
+      },
+      "Znom_ohm": {
+        "value": 4,
+        "state": "E"
+      },
+      "c_m_per_s": {
+        "value": 343.68412096215235,
+        "state": "C"
+      },
+      "freq_high_hz": {
+        "value": 500,
+        "state": "E"
+      },
+      "freq_low_hz": {
+        "value": 20,
+        "state": "E"
+      },
+      "gamma_m_per_s2_A": {
+        "value": 82.21128791195208,
+        "state": "C"
+      },
+      "no": {
+        "value": 0.001445018252444344,
+        "state": "C"
+      },
+      "numVC": {
+        "value": 2,
+        "state": "E"
+      },
+      "power_peak_W": {
+        "value": 1400,
+        "state": "E"
+      },
+      "roo_kg_per_m3": {
+        "value": 1.2009521771468228,
+        "state": "C"
+      },
+      "weight_kg": {
+        "value": 11.5212368,
+        "state": "E"
+      }
+    }
+  },
+  {
+    "id": "dayton-audio/rss265ho-44",
+    "brand": "Dayton Audio",
+    "model": "RSS265HO-44 10\" Reference HO DVC Subwoofer 4 Ohms Per Coil",
+    "sku": "rss265ho-44",
+    "diam": 10,
+    "sources": {
+      "manufacturer_datasheet": "https://daytonaudio.com/images/resources/295-463-dayton-audio-rss265-ho-44-specifications.pdf",
+      "manufacturer_product_page": "https://daytonaudio.com/product/1108/rss265ho-44-10-reference-ho-dvc-subwoofer-4-ohms-per-coil"
+    },
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss265ho-44.json",
+    "specs": {
+      "BL_Tm": {
+        "value": 9.39,
+        "state": "E"
+      },
+      "Basket_m": {
+        "value": 0.235,
+        "state": "E"
+      },
+      "Cms_m_per_N": {
+        "value": 0.00021,
+        "state": "E"
+      },
+      "Dd_m": {
+        "value": 0.2117928921399861,
+        "state": "C"
+      },
+      "EBP_hz": {
+        "value": 55.2,
+        "state": "C"
+      },
+      "Fs_hz": {
+        "value": 27.6,
+        "state": "E"
+      },
+      "Gloss": {
+        "value": 0.024610866037293268,
+        "state": "C"
+      },
+      "Le_H": {
+        "value": 0.00077,
+        "state": "E"
+      },
+      "Mms_kg": {
+        "value": 0.161,
+        "state": "E"
+      },
+      "Mpow_N_per_sqrtW": {
+        "value": 7.423446807245271,
+        "state": "C"
+      },
+      "Pe_W": {
+        "value": 600,
+        "state": "E"
+      },
+      "Qes": {
+        "value": 0.5,
+        "state": "E"
+      },
+      "Qms": {
+        "value": 4.42,
+        "state": "E"
+      },
+      "Qts": {
+        "value": 0.45,
+        "state": "E"
+      },
+      "Re_ohm": {
+        "value": 1.6,
+        "state": "E"
+      },
+      "Rme_kg_per_s": {
+        "value": 55.839924461966426,
+        "state": "C"
+      },
+      "Rms_kg_per_s": {
+        "value": 6.316733536421541,
+        "state": "C"
+      },
+      "SPL_dB": {
+        "value": 90.5,
+        "state": "E"
+      },
+      "SPLmaxLF_dB": {
+        "value": 93.94698202892228,
+        "state": "C"
+      },
+      "SPLmax_dB": {
+        "value": 115.28151250383644,
+        "state": "C"
+      },
+      "Sd_m2": {
+        "value": 0.03523,
+        "state": "E"
+      },
+      "USPL_dB": {
+        "value": 97.49452888392656,
+        "state": "C"
+      },
+      "VCCon": {
+        "value": "parallel",
+        "state": "E"
+      },
+      "Vas_m3": {
+        "value": 0.0348,
+        "state": "E"
+      },
+      "Vcd_m": {
+        "value": 0.0655,
+        "state": "E"
+      },
+      "Vd_m3": {
+        "value": 0.0004667975,
+        "state": "C"
+      },
+      "Xmax_m": {
+        "value": 0.01325,
+        "state": "E"
+      },
+      "Znom_ohm": {
+        "value": 2,
+        "state": "E"
+      },
+      "c_m_per_s": {
+        "value": 343.68412096215235,
+        "state": "C"
+      },
+      "freq_high_hz": {
+        "value": 600,
+        "state": "E"
+      },
+      "freq_low_hz": {
+        "value": 25,
+        "state": "E"
+      },
+      "gamma_m_per_s2_A": {
+        "value": 58.32298136645963,
+        "state": "C"
+      },
+      "no": {
+        "value": 0.0014230423373119403,
+        "state": "C"
+      },
+      "numVC": {
+        "value": 2,
+        "state": "E"
+      },
+      "power_peak_W": {
+        "value": 1200,
+        "state": "E"
+      },
+      "roo_kg_per_m3": {
+        "value": 1.2009521771468228,
+        "state": "C"
+      },
+      "weight_kg": {
+        "value": 7.8017824,
+        "state": "E"
+      }
+    }
+  },
+  {
+    "id": "pioneer/TS-W310S4",
+    "brand": "Pioneer",
+    "model": "TS-W310S4",
+    "sku": "TS-W310S4",
+    "diam": 12,
+    "sources": {
+      "manufacturer_manual_mirror": "https://incar.su/upload/iblock/c4e/c4eae7f7b8f6488dd5c6d1dba4194958.pdf"
+    },
+    "specs": {
+      "Pe_W": {
+        "state": "E",
+        "value": 400
+      },
+      "power_peak_W": {
+        "state": "E",
+        "value": 1400
+      },
+      "numVC": {
+        "state": "E",
+        "value": 1
+      },
+      "Znom_ohm": {
+        "state": "E",
+        "value": 4
+      },
+      "Re_per_coil_ohm": {
+        "state": "E",
+        "value": 2.9
+      },
+      "Fs_hz": {
+        "state": "E",
+        "value": 35
+      },
+      "Qms": {
+        "state": "E",
+        "value": 11.93
+      },
+      "Qes": {
+        "state": "E",
+        "value": 0.67
+      },
+      "Qts": {
+        "state": "E",
+        "value": 0.63
+      },
+      "Vas_m3": {
+        "state": "E",
+        "value": 0.0354
+      },
+      "Rms_kg_per_s": {
+        "state": "E",
+        "value": 3.99
+      },
+      "Mms_kg": {
+        "state": "E",
+        "value": 0.216
+      },
+      "Cms_m_per_N": {
+        "state": "E",
+        "value": 0.000095
+      },
+      "Dd_m": {
+        "state": "E",
+        "value": 0.257
+      },
+      "Xmax_m": {
+        "state": "E",
+        "value": 0.0099
+      },
+      "displacement_L": {
+        "state": "E",
+        "value": 2.08
+      },
+      "SPL_in_car_dB": {
+        "state": "E",
+        "value": 95
+      },
+      "freq_low_hz": {
+        "state": "E",
+        "value": 20
+      },
+      "freq_high_hz": {
+        "state": "E",
+        "value": 250
+      },
+      "Le_H": {
+        "state": "E",
+        "value": 0.0025299999999999997
+      },
+      "BL_Tm": {
+        "state": "E",
+        "value": 14.8
+      }
+    }
+  },
+  {
+    "id": "pioneer/TS-W310D4",
+    "brand": "Pioneer",
+    "model": "TS-W310D4",
+    "sku": "TS-W310D4",
+    "diam": 12,
+    "sources": {
+      "manufacturer_manual_mirror": "https://incar.su/upload/iblock/c4e/c4eae7f7b8f6488dd5c6d1dba4194958.pdf"
+    },
+    "specs": {
+      "Pe_W": {
+        "state": "E",
+        "value": 400
+      },
+      "power_peak_W": {
+        "state": "E",
+        "value": 1400
+      },
+      "numVC": {
+        "state": "E",
+        "value": 2
+      },
+      "Znom_ohm": {
+        "state": "E",
+        "value": 4
+      },
+      "Re_per_coil_ohm": {
+        "state": "E",
+        "value": 2.9
+      },
+      "Fs_hz": {
+        "state": "E",
+        "value": 37
+      },
+      "Qms": {
+        "state": "E",
+        "value": 12.3
+      },
+      "Qes": {
+        "state": "E",
+        "value": 0.83
+      },
+      "Qts": {
+        "state": "E",
+        "value": 0.77
+      },
+      "Vas_m3": {
+        "state": "E",
+        "value": 0.037399999999999996
+      },
+      "Rms_kg_per_s": {
+        "state": "E",
+        "value": 3.96
+      },
+      "Mms_kg": {
+        "state": "E",
+        "value": 0.208
+      },
+      "Cms_m_per_N": {
+        "state": "E",
+        "value": 0.000088
+      },
+      "Dd_m": {
+        "state": "E",
+        "value": 0.257
+      },
+      "Xmax_m": {
+        "state": "E",
+        "value": 0.0108
+      },
+      "displacement_L": {
+        "state": "E",
+        "value": 2.08
+      },
+      "SPL_in_car_dB": {
+        "state": "E",
+        "value": 95
+      },
+      "freq_low_hz": {
+        "state": "E",
+        "value": 20
+      },
+      "freq_high_hz": {
+        "state": "E",
+        "value": 250
+      },
+      "Le_series_mH": {
+        "state": "E",
+        "value": 4.86
+      },
+      "Le_parallel_mH": {
+        "state": "E",
+        "value": 1.23
+      },
+      "BL_series_Tm": {
+        "state": "E",
+        "value": 18.7
+      },
+      "BL_parallel_Tm": {
+        "state": "E",
+        "value": 9.4
+      }
+    }
+  },
+  {
+    "id": "pioneer/TS-W260S4",
+    "brand": "Pioneer",
+    "model": "TS-W260S4",
+    "sku": "TS-W260S4",
+    "diam": 10,
+    "sources": {
+      "manufacturer_manual_mirror": "https://incar.su/upload/iblock/c4e/c4eae7f7b8f6488dd5c6d1dba4194958.pdf"
+    },
+    "specs": {
+      "Pe_W": {
+        "state": "E",
+        "value": 350
+      },
+      "power_peak_W": {
+        "state": "E",
+        "value": 1200
+      },
+      "numVC": {
+        "state": "E",
+        "value": 1
+      },
+      "Znom_ohm": {
+        "state": "E",
+        "value": 4
+      },
+      "Re_per_coil_ohm": {
+        "state": "E",
+        "value": 3.2
+      },
+      "Fs_hz": {
+        "state": "E",
+        "value": 45
+      },
+      "Qms": {
+        "state": "E",
+        "value": 10.98
+      },
+      "Qes": {
+        "state": "E",
+        "value": 0.9
+      },
+      "Qts": {
+        "state": "E",
+        "value": 0.83
+      },
+      "Vas_m3": {
+        "state": "E",
+        "value": 0.0132
+      },
+      "Rms_kg_per_s": {
+        "state": "E",
+        "value": 3.82
+      },
+      "Mms_kg": {
+        "state": "E",
+        "value": 0.148
+      },
+      "Cms_m_per_N": {
+        "state": "E",
+        "value": 0.000084
+      },
+      "Dd_m": {
+        "state": "E",
+        "value": 0.211
+      },
+      "Xmax_m": {
+        "state": "E",
+        "value": 0.0081
+      },
+      "displacement_L": {
+        "state": "E",
+        "value": 1.42
+      },
+      "SPL_in_car_dB": {
+        "state": "E",
+        "value": 93
+      },
+      "freq_low_hz": {
+        "state": "E",
+        "value": 20
+      },
+      "freq_high_hz": {
+        "state": "E",
+        "value": 250
+      },
+      "Le_H": {
+        "state": "E",
+        "value": 0.00281
+      },
+      "BL_Tm": {
+        "state": "E",
+        "value": 12.7
+      }
+    }
+  },
+  {
+    "id": "pioneer/TS-W260D4",
+    "brand": "Pioneer",
+    "model": "TS-W260D4",
+    "sku": "TS-W260D4",
+    "diam": 10,
+    "sources": {
+      "manufacturer_manual_mirror": "https://incar.su/upload/iblock/c4e/c4eae7f7b8f6488dd5c6d1dba4194958.pdf"
+    },
+    "specs": {
+      "Pe_W": {
+        "state": "E",
+        "value": 350
+      },
+      "power_peak_W": {
+        "state": "E",
+        "value": 1200
+      },
+      "numVC": {
+        "state": "E",
+        "value": 2
+      },
+      "Znom_ohm": {
+        "state": "E",
+        "value": 4
+      },
+      "Re_per_coil_ohm": {
+        "state": "E",
+        "value": 3.3
+      },
+      "Fs_hz": {
+        "state": "E",
+        "value": 47
+      },
+      "Qms": {
+        "state": "E",
+        "value": 12.07
+      },
+      "Qes": {
+        "state": "E",
+        "value": 1.27
+      },
+      "Qts": {
+        "state": "E",
+        "value": 1.15
+      },
+      "Vas_m3": {
+        "state": "E",
+        "value": 0.0115
+      },
+      "Rms_kg_per_s": {
+        "state": "E",
+        "value": 3.59
+      },
+      "Mms_kg": {
+        "state": "E",
+        "value": 0.148
+      },
+      "Cms_m_per_N": {
+        "state": "E",
+        "value": 0.000079
+      },
+      "Dd_m": {
+        "state": "E",
+        "value": 0.211
+      },
+      "Xmax_m": {
+        "state": "E",
+        "value": 0.012199999999999999
+      },
+      "displacement_L": {
+        "state": "E",
+        "value": 1.42
+      },
+      "SPL_in_car_dB": {
+        "state": "E",
+        "value": 93
+      },
+      "freq_low_hz": {
+        "state": "E",
+        "value": 20
+      },
+      "freq_high_hz": {
+        "state": "E",
+        "value": 250
+      },
+      "Le_series_mH": {
+        "state": "E",
+        "value": 4.7
+      },
+      "Le_parallel_mH": {
+        "state": "E",
+        "value": 1.2
+      },
+      "BL_series_Tm": {
+        "state": "E",
+        "value": 16
+      },
+      "BL_parallel_Tm": {
+        "state": "E",
+        "value": 8
+      }
+    }
+  }
+]
