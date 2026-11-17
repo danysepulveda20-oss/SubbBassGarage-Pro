@@ -1,0 +1,17 @@
+{
+  "name": "SUB BASS GARAGE PRO",
+  "short_name": "SBG PRO",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101115",
+  "theme_color": "#141519",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
