@@ -1,0 +1,514 @@
+[
+  {
+    "id": "dayton-audio/dcs165-4",
+    "brand": "Dayton Audio",
+    "sku": "dcs165-4",
+    "model": "DCS165-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/dcs165-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/dcs205-4",
+    "brand": "Dayton Audio",
+    "sku": "dcs205-4",
+    "model": "DCS205-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/dcs205-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/dcs255-4",
+    "brand": "Dayton Audio",
+    "sku": "dcs255-4",
+    "model": "DCS255-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/dcs255-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/dcs305-4",
+    "brand": "Dayton Audio",
+    "sku": "dcs305-4",
+    "model": "DCS305-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/dcs305-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/dcs385-4",
+    "brand": "Dayton Audio",
+    "sku": "dcs385-4",
+    "model": "DCS385-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/dcs385-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/mx10-22",
+    "brand": "Dayton Audio",
+    "sku": "mx10-22",
+    "model": "MX10-22",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/mx10-22.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/mx12-22",
+    "brand": "Dayton Audio",
+    "sku": "mx12-22",
+    "model": "MX12-22",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/mx12-22.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/mx15-22",
+    "brand": "Dayton Audio",
+    "sku": "mx15-22",
+    "model": "MX15-22",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/mx15-22.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/mx5-22",
+    "brand": "Dayton Audio",
+    "sku": "mx5-22",
+    "model": "MX5-22",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/mx5-22.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/mx6-22",
+    "brand": "Dayton Audio",
+    "sku": "mx6-22",
+    "model": "MX6-22",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/mx6-22.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss210hf-4",
+    "brand": "Dayton Audio",
+    "sku": "rss210hf-4",
+    "model": "RSS210HF-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss210hf-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss210ho-4",
+    "brand": "Dayton Audio",
+    "sku": "rss210ho-4",
+    "model": "RSS210HO-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss210ho-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss210ho-8",
+    "brand": "Dayton Audio",
+    "sku": "rss210ho-8",
+    "model": "RSS210HO-8",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss210ho-8.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss265hf-4",
+    "brand": "Dayton Audio",
+    "sku": "rss265hf-4",
+    "model": "RSS265HF-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss265hf-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss265hf-8",
+    "brand": "Dayton Audio",
+    "sku": "rss265hf-8",
+    "model": "RSS265HF-8",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss265hf-8.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss265ho-4",
+    "brand": "Dayton Audio",
+    "sku": "rss265ho-4",
+    "model": "RSS265HO-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss265ho-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss265ho-44",
+    "brand": "Dayton Audio",
+    "sku": "rss265ho-44",
+    "model": "RSS265HO-44",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss265ho-44.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss315hf-4",
+    "brand": "Dayton Audio",
+    "sku": "rss315hf-4",
+    "model": "RSS315HF-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss315hf-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss315hfa-8",
+    "brand": "Dayton Audio",
+    "sku": "rss315hfa-8",
+    "model": "RSS315HFA-8",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss315hfa-8.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss315ho-4",
+    "brand": "Dayton Audio",
+    "sku": "rss315ho-4",
+    "model": "RSS315HO-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss315ho-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss315ho-44",
+    "brand": "Dayton Audio",
+    "sku": "rss315ho-44",
+    "model": "RSS315HO-44",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss315ho-44.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss390hf-4",
+    "brand": "Dayton Audio",
+    "sku": "rss390hf-4",
+    "model": "RSS390HF-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss390hf-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss390ho-4",
+    "brand": "Dayton Audio",
+    "sku": "rss390ho-4",
+    "model": "RSS390HO-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss390ho-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/rss460ho-4",
+    "brand": "Dayton Audio",
+    "sku": "rss460ho-4",
+    "model": "RSS460HO-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/rss460ho-4.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/umii10-22",
+    "brand": "Dayton Audio",
+    "sku": "umii10-22",
+    "model": "UMII10-22",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/umii10-22.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/umii12-22",
+    "brand": "Dayton Audio",
+    "sku": "umii12-22",
+    "model": "UMII12-22",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/umii12-22.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/umii15-22",
+    "brand": "Dayton Audio",
+    "sku": "umii15-22",
+    "model": "UMII15-22",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/umii15-22.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/umii18-22",
+    "brand": "Dayton Audio",
+    "sku": "umii18-22",
+    "model": "UMII18-22",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/umii18-22.json",
+    "remote": true
+  },
+  {
+    "id": "dayton-audio/umii8-22",
+    "brand": "Dayton Audio",
+    "sku": "umii8-22",
+    "model": "UMII8-22",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/dayton-audio/umii8-22.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/10tw1-2",
+    "brand": "JL Audio",
+    "sku": "10tw1-2",
+    "model": "10TW1-2",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/10tw1-2.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/10tw1-4",
+    "brand": "JL Audio",
+    "sku": "10tw1-4",
+    "model": "10TW1-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/10tw1-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/10tw3-d4",
+    "brand": "JL Audio",
+    "sku": "10tw3-d4",
+    "model": "10TW3-D4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/10tw3-d4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/10tw3-d8",
+    "brand": "JL Audio",
+    "sku": "10tw3-d8",
+    "model": "10TW3-D8",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/10tw3-d8.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/10w0v3-4",
+    "brand": "JL Audio",
+    "sku": "10w0v3-4",
+    "model": "10W0V3-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/10w0v3-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/10w1v3-2",
+    "brand": "JL Audio",
+    "sku": "10w1v3-2",
+    "model": "10W1V3-2",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/10w1v3-2.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/10w1v3-4",
+    "brand": "JL Audio",
+    "sku": "10w1v3-4",
+    "model": "10W1V3-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/10w1v3-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/10w3v3-2",
+    "brand": "JL Audio",
+    "sku": "10w3v3-2",
+    "model": "10W3V3-2",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/10w3v3-2.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/10w3v3-4",
+    "brand": "JL Audio",
+    "sku": "10w3v3-4",
+    "model": "10W3V3-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/10w3v3-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/10w6v3-d4",
+    "brand": "JL Audio",
+    "sku": "10w6v3-d4",
+    "model": "10W6V3-D4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/10w6v3-d4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/10w7ae-3",
+    "brand": "JL Audio",
+    "sku": "10w7ae-3",
+    "model": "10W7AE-3",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/10w7ae-3.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/12tw1-2",
+    "brand": "JL Audio",
+    "sku": "12tw1-2",
+    "model": "12TW1-2",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12tw1-2.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/12tw1-4",
+    "brand": "JL Audio",
+    "sku": "12tw1-4",
+    "model": "12TW1-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12tw1-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/12tw3-d4",
+    "brand": "JL Audio",
+    "sku": "12tw3-d4",
+    "model": "12TW3-D4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12tw3-d4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/12tw3-d8",
+    "brand": "JL Audio",
+    "sku": "12tw3-d8",
+    "model": "12TW3-D8",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12tw3-d8.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/12w0v3-4",
+    "brand": "JL Audio",
+    "sku": "12w0v3-4",
+    "model": "12W0V3-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12w0v3-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/12w1v3-2",
+    "brand": "JL Audio",
+    "sku": "12w1v3-2",
+    "model": "12W1V3-2",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12w1v3-2.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/12w1v3-4",
+    "brand": "JL Audio",
+    "sku": "12w1v3-4",
+    "model": "12W1V3-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12w1v3-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/12w3v3-2",
+    "brand": "JL Audio",
+    "sku": "12w3v3-2",
+    "model": "12W3V3-2",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12w3v3-2.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/12w3v3-4",
+    "brand": "JL Audio",
+    "sku": "12w3v3-4",
+    "model": "12W3V3-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12w3v3-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/12w6v3-d4",
+    "brand": "JL Audio",
+    "sku": "12w6v3-d4",
+    "model": "12W6V3-D4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12w6v3-d4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/12w7ae-3",
+    "brand": "JL Audio",
+    "sku": "12w7ae-3",
+    "model": "12W7AE-3",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/12w7ae-3.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/13tw5v2-2",
+    "brand": "JL Audio",
+    "sku": "13tw5v2-2",
+    "model": "13TW5V2-2",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/13tw5v2-2.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/13tw5v2-4",
+    "brand": "JL Audio",
+    "sku": "13tw5v2-4",
+    "model": "13TW5V2-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/13tw5v2-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/13w3v3-2",
+    "brand": "JL Audio",
+    "sku": "13w3v3-2",
+    "model": "13W3V3-2",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/13w3v3-2.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/13w3v3-4",
+    "brand": "JL Audio",
+    "sku": "13w3v3-4",
+    "model": "13W3V3-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/13w3v3-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/13w7ae-d1-5",
+    "brand": "JL Audio",
+    "sku": "13w7ae-d1-5",
+    "model": "13W7AE-D1-5",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/13w7ae-d1-5.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/6w3v3-4",
+    "brand": "JL Audio",
+    "sku": "6w3v3-4",
+    "model": "6W3V3-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/6w3v3-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/8w1v3-4",
+    "brand": "JL Audio",
+    "sku": "8w1v3-4",
+    "model": "8W1V3-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/8w1v3-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/8w3v3-4",
+    "brand": "JL Audio",
+    "sku": "8w3v3-4",
+    "model": "8W3V3-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/8w3v3-4.json",
+    "remote": true
+  },
+  {
+    "id": "jl-audio/8w7ae-3",
+    "brand": "JL Audio",
+    "sku": "8w7ae-3",
+    "model": "8W7AE-3",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/jl-audio/8w7ae-3.json",
+    "remote": true
+  },
+  {
+    "id": "sb-acoustics/sb29swnrx-s75-6",
+    "brand": "SB Acoustics",
+    "sku": "sb29swnrx-s75-6",
+    "model": "SB29SWNRX-S75-6",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/sb-acoustics/sb29swnrx-s75-6.json",
+    "remote": true
+  },
+  {
+    "id": "sb-acoustics/sb34swnrx-s75-6",
+    "brand": "SB Acoustics",
+    "sku": "sb34swnrx-s75-6",
+    "model": "SB34SWNRX-S75-6",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/sb-acoustics/sb34swnrx-s75-6.json",
+    "remote": true
+  },
+  {
+    "id": "sb-acoustics/sb34swpl76-3-dv",
+    "brand": "SB Acoustics",
+    "sku": "sb34swpl76-3-dv",
+    "model": "SB34SWPL76-3-DV",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/sb-acoustics/sb34swpl76-3-dv.json",
+    "remote": true
+  },
+  {
+    "id": "sb-acoustics/sb34swpl76-4",
+    "brand": "SB Acoustics",
+    "sku": "sb34swpl76-4",
+    "model": "SB34SWPL76-4",
+    "catalog": "https://raw.githubusercontent.com/Johnlon/openisd/9d61ef649aaa265f906efe31159821e711ed00de/packages/ui/public/drivers/sb-acoustics/sb34swpl76-4.json",
+    "remote": true
+  }
+]
